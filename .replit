@@ -1,0 +1,5 @@
+language = "nodejs-npm"
+entrypoint = "index.js"
+onBoot = "npm install"
+run = "npm start"
+hidden = ".gitignore"
